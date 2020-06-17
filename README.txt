@@ -28,11 +28,12 @@ python3 RUN-LOOP.py
 Credits:
 
 PyOTP-Script: (MIT License)
-Scripts written by p0wder: (MIT License)
+Scripts written by p0wder
+Copyright (C) 2020 Powder Linux
 https://www.github.com/PowderLinux
 
 PyOTP: (MIT License)
-https://github.com/pyauth/pyotp/blob/master/LICENSE
 Copyright (C) 2011-2017 Mark Percival <m@mdp.im>,
 Nathan Reynolds <email@nreynolds.co.uk>, Andrey Kislyuk <kislyuk@gmail.com>,
 and PyOTP contributors
+https://github.com/pyauth/pyotp
