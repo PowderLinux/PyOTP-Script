@@ -11,12 +11,12 @@ RUN-LOOP.py will continuously generate your TOTP code untill the terminal is clo
 
 To run:
 
-Open either script with any text editor and add your OTP's secret key the following line:
+Open either script with any text editor and add your OTP's secret key to the following line:
 totp = pyotp.TOTP("JBSWY3DPEHPK3PXP")
 (Replace "JBSWY3DPEHPK3PXP" with your key)
 
 Windows-
-Right click and select "Open with" > "Python", or run in CMD.exe:
+Right click RUN.py/RUN-LOOP.py and select "Open with" > "Python", or run in CMD.exe:
 python RUN.py
 python RUN-LOOP.py
 
