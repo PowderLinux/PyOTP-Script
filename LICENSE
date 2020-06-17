@@ -8,6 +8,7 @@ PyOTP:
 Copyright (C) 2011-2017 Mark Percival <m@mdp.im>,
 Nathan Reynolds <email@nreynolds.co.uk>, Andrey Kislyuk <kislyuk@gmail.com>,
 and PyOTP contributors
+https://github.com/pyauth/pyotp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
