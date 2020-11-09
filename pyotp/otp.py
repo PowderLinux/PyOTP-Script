@@ -1,4 +1,4 @@
-from typing import Any, Optional, temp
+from typing import Any, Optional
 
 import base64
 import hashlib
